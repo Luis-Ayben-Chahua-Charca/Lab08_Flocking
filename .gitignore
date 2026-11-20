@@ -1,0 +1,53 @@
+# Archivos generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.utmp/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+sysinfo.txt
+mono_crash.*
+*.log
+
+# Compilaciones y exportaciones locales
+/[Bb]uild/
+/[Bb]uilds/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+*.apk
+*.aab
+*.obb
+*.unitypackage
+*.unitypackage.meta
+
+# IDE y sistema operativo
+.vs/
+.idea/
+.vscode/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Borradores, artefactos locales y datos privados
+/output/
+/tmp/
+*.tmp
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.pfx
+*.p12

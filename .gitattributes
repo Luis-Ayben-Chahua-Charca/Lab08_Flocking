@@ -1,0 +1,13 @@
+# Normaliza archivos de texto y conserva los recursos binarios.
+* text=auto
+*.cs text eol=lf
+*.unity text=auto eol=lf
+*.prefab text=auto eol=lf
+*.meta text eol=lf
+*.json text eol=lf
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tif binary
+*.exr binary
